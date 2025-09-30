@@ -23,15 +23,19 @@ In the initial data preparation phase, we performed the following tasks;
 
  ### Exploratory Data Analysis
  EDA involved exploring the Employees data to answer key questions such as;
- 1. Employment Statistics by Country, Ethnicity, Age rangeand Department.
- 2. Amount spent by each department on Employees
- 3. Salary gaps between each employees based on Nationality and Departments.
-
+ 1. Employment Statistics by Country, Ethnicity, Age range and Department.
+ 2. Amount Company spent on each department on Employees.
+ 3. Salary gaps between each employees based on Nationalities and Departments.
+    
  
 ### Results/Findings
 The Analysis results are summarized as follows;
-Marketing department is the most appreciated in terms of Renumeration
-Blacks fell to the lowest Category in terms of Salaries and Bonuses.
+Marketing department is the most appreciated in terms of Renumeration. The Company spends  more heavily on salary to the engineering department in comparison to others.While IT Department fell to the lowest Category in terms of Salaries and Bonuses. The percentage decrease of Salaries to worker's population of each department will be analyzed below.
+1. Engineering as an Increase of 12.22% in relations to population followed by marketing which is 4.21% increase and Sales which has 1.89% increase.
+2. Finance has 1.89% decrease in Salary in relations to population, followed by Accounting department which is 17.21% decrease and the last on these category is the IT department which has a decrease of17.33%.
+3. Checking the average helps to know the possible range of workers in each department. The average goes as follows.
+   a.
+   b. 
 
 
 ### Recommendations
