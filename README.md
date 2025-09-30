@@ -30,15 +30,16 @@ In the initial data preparation phase, we performed the following tasks;
  
 ### Results/Findings
 The Analysis results are summarized as follows;
-IT department is the most appreciated in terms of Renumeration
+Marketing department is the most appreciated in terms of Renumeration
 Blacks fell to the lowest Category in terms of Salaries and Bonuses.
 
 
 ### Recommendations
- __ The data shows the high segregation displayed in the Company. Hence it shows the disparity entertained by stakeholders. emphasis should be placed more on Values and not Reace/Ethnicity
+ __ The data shows the high segregation displayed in the Company. Hence it shows the disparity entertained by stakeholders. emphasis should be placed more on Values and not Reace/Ethnicity.
 
 
  ### Limitations
+ 
  ### References
  
 
