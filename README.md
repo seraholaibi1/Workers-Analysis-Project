@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This data analysis project aim to provide insights into the salaries paid to employees frpm different department across different Countries and Ethnicity.
+This data analysis project aim to provide insights into the salaries paid to employees from different department across different Countries and Ethnicity.
 
 ### Data Sources
 
